@@ -17,7 +17,7 @@ In the styles file you wish to use it in you may have something
 similar to,
 
     @import "bootswatch-scss/readable/variables";
-    @import "sass-bootstrap/lib/bootstrap";
+    @import "bootstrap-sass/lib/bootstrap";
     @import "bootswatch-scss/readable/bootswatch";
 
 Copyright and License
